@@ -53,9 +53,12 @@ Using the sales dataset above, I calculated the total revenue, profit, unit sold
 Using the same dataset I was able to use the functions Sum, sumif, vlookup, countA, Average, averageif, if, to generate insigts.
 ![image](https://github.com/Omablu/Data_Anaysis_cohort-3/assets/119351114/9ff00fc5-721f-4850-aa64-9f6f66e08402)
 
+![image](https://github.com/Omablu/Data_Anaysis_cohort-3/assets/119351114/7665d650-0f84-484f-952a-c890e11766a8)
+
 I created new columns to be able to use the Vlookup function, IF, and also the "LEFT" function.
 ![image](https://github.com/Omablu/Data_Anaysis_cohort-3/assets/119351114/656006eb-e18c-446d-ae2c-9f2c5a75175c)
 
 ## Conclusion
 I have learned a great deal playing around with my first Excel dataset to gain different insights.
 I hope to learn more and showcase more skills to my future employer.
+
